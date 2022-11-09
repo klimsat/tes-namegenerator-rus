@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+}
+
+a {
+    color: #aaa;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+h1, h2 {
+    font-weight: 200;
+}
+
+.gender-button {
+    width: 64px;
+    height: 64px;
+    padding: 8px;
+    margin: 16px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    transition: 0.1s all;
+}
+
+.gender-button:hover {
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+select {
+    width: 100%;
+    max-width: 200px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    outline: none;
+    transition: 0.1s all;
+}
+
+select:hover {
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
