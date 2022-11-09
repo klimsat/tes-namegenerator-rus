@@ -2,4 +2,7 @@
 
 Ссылка: https://klimsat.github.io/tes-namegenerator-rus/
 
-Credits: original author of source code - FelisDiligens
+
+
+Thanks to:
+<li>FelisDiligens's <a href="https://github.com/FelisDiligens/tes-name-generator" rel="nofollow">The Elder Scrolls Name Generator</a></li>
