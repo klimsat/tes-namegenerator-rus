@@ -25,8 +25,9 @@ h1, h2 {
     padding: 8px;
     margin: 16px;
     border-radius: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #000;
     transition: 0.1s all;
+	filter: invert(1);
 }
 
 .gender-button:hover {
